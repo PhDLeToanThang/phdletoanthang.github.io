@@ -1,7 +1,12 @@
-# phdletoanthang.github.io với 3 thông điệp về Công nghệ Thông tin với Nghề nghiệp và Y-Sinh học với Sức khoẻ - Đời sống Loài người:
+# Trang https://phdletoanthang.github.io chứa đựng, chia sẻ 3 thông điệp: 
 
-## Thông điệp 1. Business Analytic and Data Analytics by CI/CD,Agile,Scrum with Copilot:
-## Phân tích dữ liệu và phân tích kinh doanh bằng CI/CD, Agile, Scrum với khai thác sử dụng AI/ML Local DB làm Co-pilot fix thuật toán, sửa code và Troubleshoot
+1. Công nghệ Thông tin với Nghề nghiệp.
+2. Tin-Y-Sinh học với Sức khoẻ - Đời sống Loài người.
+3. Khoa học quản lý Doanh nghiệp-Khoa học Dữ liệu-Khoa học máy tính với Sự nghiệp tiến bộ Loài người.
+
+## Thông điệp 1. Công nghệ Thông tin với Nghề nghiệp:
+### Business Analytic and Data Analytics by CI/CD,Agile,Scrum with Copilot:
+### _Phân tích dữ liệu và phân tích kinh doanh bằng CI/CD, Agile, Scrum với khai thác sử dụng AI/ML Local DB làm Co-pilot fix thuật toán, sửa code và Troubleshoot_
 
 ```en
 A career in Data Analysis:
@@ -19,3 +24,8 @@ dữ liệu là yếu tố quan trọng đối với sự cạnh tranh kinh doan
 Họ mở rộng đội ngũ và tạo ra các trung tâm xuất sắc để thiết lập một thực hành phân tích
 dữ liệu và phân tích đa mục tiêu trong tổ chức của họ.
 ```
+
+## Thông điệp 2. Tin-Y-Sinh học với Sức khoẻ - Đời sống Loài người:
+
+
+## Thông điệp 3. Khoa học Quản lý Doanh nghiệp-Khoa học Dữ liệu-Khoa học máy tính với Sự nghiệp tiến bộ Loài người:
