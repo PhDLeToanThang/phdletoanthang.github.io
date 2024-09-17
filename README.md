@@ -1,6 +1,6 @@
-# phdletoanthang.github.io với 4 thông điệp về Công nghệ Thông tin với Nghề nghiệp và Y-Sinh học với Sức khoẻ - Đời sống Loài người:
+# phdletoanthang.github.io với 3 thông điệp về Công nghệ Thông tin với Nghề nghiệp và Y-Sinh học với Sức khoẻ - Đời sống Loài người:
 
-##1. Business Analytic and Data Analytics by CI/CD,Agile,Scrum with Copilot
+## Thông điệp 1. Business Analytic and Data Analytics by CI/CD,Agile,Scrum with Copilot:
 ## Phân tích dữ liệu và phân tích kinh doanh bằng CI/CD, Agile, Scrum với khai thác sử dụng AI/ML Local DB làm Co-pilot fix thuật toán, sửa code và Troubleshoot
 
 ```en
