@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: PhD. Lê Toàn Thắng: Trang tin chính
+title: "PhD. Lê Toàn Thắng: Trang tin chính"
 description: Business Analytics, Data Analytics, Data Scientist vs Develop CI/CD Pipeline Data Framework with copilot-kit (AI/ML/DL)
+layout: page
+permalink: /readme.md
